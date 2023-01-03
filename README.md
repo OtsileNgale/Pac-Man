@@ -1,1 +1,1 @@
-# python-projects
+# Pac-Man arcade game
